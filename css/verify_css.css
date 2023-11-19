@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(255, 255, 255)0.664;
+    background-color: #c9d6ff;
+  }
+  
+  .container-fluid {
+      display: flex;
+      max-width: 90vh;
+      margin-top: 15%;
+     
+     
+  }
+  
+  .button-box {
+      margin-bottom: 2%;
+      margin-left: 34%;
+  }
+  
+  .row {
+      margin-left: 13%;
+  }
+  
+  
+  .text-center {
+      padding-left: 14%;
+  }
+  
+  .center-container {
+      
+      align-items: center;
+     
+  }
+  
+  .verify-card {
+      width: 400px;
+      margin: 0 auto;
+      display: flex;
+      padding: 20px;
+      border: 2px solid #ccc;
+      border-radius: 10px;
+      border-color: black;
+      color: wheat;
+     
+  
+  }
+  .img-fluid{
+      position: absolute;
+      top: 27%;
+      left: 17%;
+      width:400px;
+      margin-bottom: 10px;
+      float: left;
+      
+   
+  
+  }
+  
+  
+  
+  @media screen and (max-width: 900px) {
+      .img-fluid{
+          visibility: hidden;
+        }
+        
+  }
+  
+  

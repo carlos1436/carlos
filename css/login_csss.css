@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+}
+.login-title{
+   
+text-align: center;
+
+
+    
+}.col{
+ display: flex;   
+}@media screen and (max-width: 700px){
+    
+    
+    .col .login-title{
+
+        text-align: justify;
+    }
+    .col{
+
+        display: flex;
+        align-items: center;
+        margin-left: 10%;
+    }
+}

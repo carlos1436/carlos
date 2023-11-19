@@ -1,0 +1,103 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+   }
+   
+   .side-bar{
+    background: rgba(255, 255, 255, 0);
+    backdrop-filter: blur(15px);
+    width: 250px;
+    height: 100vh;
+    position: fixed;
+   
+    top: 0;
+    left: -100%;
+    overflow-y: auto;
+    transition: 0.2s ease;
+    transition-property: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: bold;
+   
+   }
+   
+   .side-bar.active{
+    left: 0;
+    
+   }
+   
+   .side-bar .menu{
+    width: 100%;
+    margin-top: 80px;
+    
+   }
+   
+   .side-bar .menu .item{
+    position: relative;
+    cursor: crosshair;
+    background:  rgba(224, 77, 77, 0.233)
+   }
+   
+   .side-bar .menu .item a{
+    color: rgba(0, 0, 0, 0.582);
+    font-size: 12px;
+    text-decoration: none;
+    display: flex;
+    padding: 4px 30px;
+    line-height: 60px;
+   
+    margin: 3%;
+   }
+   
+   .side-bar .menu .item a:hover{
+    background: rgba(0, 0, 0, 0.247);
+    transition: .4s ease;
+   }
+   
+   .side-bar .menu .item i{
+    margin-right: 15px;
+   }
+   
+   .side-bar .menu .item .sub-menu{
+    background: rgb(0, 0, 0);
+    display: none;
+   }
+   
+   .side-bar .menu .item .sub-menu a{
+    padding-left: 80px;
+   }
+   
+   .rotate{
+    transform: rotate(90deg);
+   }
+   
+   .close-btn{
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    right: 0;
+    margin: 25px;
+    cursor: pointer;
+   }
+   
+   .menu-btn{
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    margin: 25px;
+    cursor: pointer;
+   }
+   @media (max-width: 900px){
+    .side-bar .menu .item a:hover{
+     
+      scroll-behavior: smooth;
+    }
+   }.bi{
+   
+    margin-top: 6%;
+       
+       }
+         

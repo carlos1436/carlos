@@ -1,0 +1,143 @@
+23,GEC-LWR,Life and Works of Rizal,3,3,0
+24,GEC-E,Ethics,3,3,0
+30,PE 1,Physical Education 1,2,2,0
+32,GEC-TCW,The Contemporary World,3,3,0
+33,GEC-AA,Art Appreciation,3,3,0
+34,GEC-PC,Purposive Communication,3,3,0
+40,PE 2,Physical Education 2,2,2,0
+42,GEC-MMW,Mathematics in the Modern World,3,3,0
+43,GEC-KAF,Komunikasyon sa Akademikong Filipino,3,3,0
+50,PE 3,Physical Education 3,2,2,0
+51,GEC-PPTP,Pagbasa at Pagsulat Tungo sa Pananaliksik,3,3,0
+52,GEC-STS,"Science, Technology and Society",3,3,0
+53,GEC-US,Understanding the Self,3,3,0
+59,PE 4,Physical Education 4,2,2,0
+70,GEE-FE,Functional English,3,3,0
+120,CC 123 L,Computer Programing 2(Lab),3,0,9
+157,GEE-LIE,Living in the IT Era,3,3,0
+281,MX 215,Industrial Hydraulics,2,0,6
+288,GEE-ES,Environmental Science.,3,3,0
+449,MX 217,Industrial Motor Controller and Servo Mechanism,3,3,0
+626,CTC 223,Logic Circuit,1,0,3
+649,Draw 111,Fundamentals of Technical Drawing and Sketching,1,0,3
+664,IM 311,Fundamentals of Research,3,3,0
+671,IM 325,Industrial Organization and Management.,3,3,0
+778,GEE-TEM,The Entrepreneurial Mind.,3,3,0
+779,CC 111,Introduction to Computing,3,2,3
+780,CC 112,Programming 1 (Lec),2,2,0
+781,CC 112L,Programming 1 (Lab),3,0,9
+783,ElcTech 111,Electrical Wiring system and Design,7,3,12
+784,PC 121/Math-E 2,Discrete Mathemathics,3,3,0
+785,CompTech 111,Computer Electronics,7,3,12
+786,DTech 111,Fundamentals of Mechanical Drafting with CAD,7,3,12
+808,CompTech 122,Computer Systems,7,3,12
+810,Comp 1,Office Productivity Application Software,3,2,3
+811,GEE - ES,Environmental Science,3,3,0
+839,MX - TECH 111,Fundamentals of Mechatronics,3,0,9
+840,MX 111,Metrology and Benchwork Processes,3,0,9
+841,MX 112,Technical Drawing for Mechatronics,3,2,3
+842,MX - Math 111,Mathematics for Mechatronics 1,3,3,0
+846,CC 123,Computer Programing 2 (Lec),2,2,0
+857,MX-Tech 213,Industrial Pneumatics,3,0,9
+861,MX - TECH 122,"Mechatronics Sensors, Actuators and Application",3,0,9
+862,MX 123,Machining Processes,3,0,9
+863,MX 124,Computer Concept for Mechatronics,3,2,3
+864,MX - Math 122,Mathematics for Mechatronics 2,3,3,0
+892,MX 218,Mechatronics Programming,3,3,0
+895,MX 216,Manufacturing Technology and Materials in Industry,3,3,0
+896,PC 212,Quantitative Methods (Modelling & Simulation),3,3,0
+897,CC 214,Data Structures and Algorithms (Lec),2,2,0
+898,CC 214 L,Data Structures and Algorithms (Lab),3,0,9
+899,P Elec 1,Professional Elective 1,3,2,3
+900,P Elec 2,Professional Elective 2,3,2,3
+906,GEC- RPH,Readings in Phillipine History,3,3,0
+908,PC 224,Networking 1,3,2,3
+920,AST 111,Fundamentals of Electrical and Electronics,3,3,0
+921,PC 223,Integrative Programming and Technologies 1,3,2,3
+923,IM 312,Industrial Psychology and Group Dynamics.,3,3,0
+925,IM 314,Shop Supervision and Apprenticeship Training,3,3,0
+956,PC 329,Capstone Project an Research 1 (Technopreneurship 1),3,3,0
+1003,IM 326,Personnel Administration.,3,3,0
+1004,IM 327,Organizational Behavior and Work Ethics.,3,3,0
+1005,IM 328,Research 2.,3,3,0
+1006,CT 329,Embedded Systems,7,3,12
+1007,Fola 2,Nihonggo 2 / Korean 2 / Chinese 2,3,3,0
+1008,DT 329,"Advanced Electrical, Mechanical and Plumbing Drafting with CAD",7,3,12
+1009,ETECH 329,Machine Automation and Process Control,7,3,12
+1010,ELEX 326,Digital Data Communications,7,3,12
+1013,P Elec 3,Professional Elective 3,3,2,3
+1014,AP 3,ASP NET,3,2,3
+1015,MX - TECH 224,Industrial Programmable Logic Controllers,3,0,9
+1016,Mx 229,Microprocessors and Microcontrollers,2,0,6
+1017,Mx 2210,CAD/CAM.,2,0,6
+1018,CTC 222,Programming Logic and Design,1,0,3
+1033,GEE - GSPS,Gender & Society with Peace Studies,3,3,0
+1043,PC 315,Networking 2 (Lec),2,2,0
+1044,PC 315L,Networking 2 (Lab),3,0,9
+1045,PC 316,Systems Integration and Architecture 1,3,2,3
+1048,PC 317,Introduction to Human Computer Interaction,3,2,3
+1050,PC 318,Database Management Systems,3,2,3
+1052,CC 316,Applications Development and Emerging Technologies,3,2,3
+1057,CC 112,Computer Programming 1,2,2,0
+1058,CC 112L,Computer Programming 1 (Lab),3,0,9
+1059,DTC 223,VisualTechniques 2,1,0,3
+1078,Draw 122,Advanced Technical Drawing and Blueprint Reading,1,0,3
+1079,AST 122,Digital Electronics...,3,3,0
+1080,DTech 122,"Principles of Design, Furniture Design, and Theories of Architectural Drafting with CAD.",7,3,12
+1081,ElcTech 122,Residential and Building Wiring Installation.,7,3,12
+1120,PC 3210,Social and Professional Issues,3,3,0
+1121,PC 3211,Information Assurance and Security 1 (Lec),2,2,0
+1122,PC 3211L,Information Assurance and Security 1 (Lab),3,0,9
+1123,AP 4,iOS Mobile Application Development Cross-Platform,3,2,3
+1124,AP 5,Technology and the Application of the Internet of Things,3,2,3
+1129,Mx-Tech 326,Mechatronics and Applied Robotics,3,0,9
+1130,Mx 3214,Instrumentation and Process Control,3,0,9
+1131,Mx 3215,Industrial Project Research 2,2,0,6
+1133,Mx-Mgt 322,Project Management..,3,3,0
+1136,ElcTech224,Industrial Motor Control,7,3,12
+1137,ETC 222,Basic Industrial Automation,2,0,6
+1138,Draw 224,Computer-Aided Design 2 (CAD 2),1,0,3
+1139,AST 224,Programmable Logic Controller,1,0,3
+1140,DTech 224,"Electrical, Mechanical, and Plumbing Drafting with CAD",7,3,12
+1141,DTC 222,Walkthrough Animation and Presentations,1,0,3
+1142,CompTech 224,Programmming,7,3,12
+1143,ElxTech 122,Electronics Communication Systemss,7,3,12
+1144,AP 2,Digital Logic Design,3,2,3
+1145,GEE-IC,Indigenous Creative Craft,3,3,0
+1146,Mx-Mgt 321,Gears Brain and Sensors Management,3,3,0
+1147,Mx 3216,Articulated Robots with Vision and Factory Challenges,3,3,0
+1148,CC 225,Information Management (LEC),2,2,0
+1149,CC 225 L,Information Management (LAB),3,0,9
+1150,ElcTech 213,"Electric Motors, Machine and Generators",7,3,12
+1151,ETC 211,"Electrical Equipment Operation and Maintenance ,",2,0,6
+1152,Draw 213,Computer-Aided Design 1 (CAD 1),1,0,3
+1153,AST 213,Basic Pneumatics/Hydraulics.,1,0,3
+1154,ElcTech 315,Transmission and Distribution System.,7,3,12
+1155,IM 313,Occupational Safety and Health,3,3,0
+1156,AST 315,Workshop Management,3,3,0
+1162,DTech 213,Architectural and Structural Drafting with CAD.,7,3,12
+1163,DTC 211,CAD Rendering and Visualization.,1,0,3
+1164,DTC 212,Visual Techniques 1.,3,0,3
+1165,DTech 315,Advanced Architectural and Structural Drafting with CAD.,7,3,12
+1167,CompTech 213,Computer Network and Security.,7,3,12
+1168,CTC 211,Fundamentals of Programing,2,0,6
+1169,CompTech 315,Microprocessor System,7,3,12
+1171,ElxTech 111,"Electronic Devices, Instruments and Circuits",7,3,12
+1172,ElxTech 213,Digital Applications and Embedded Systems,7,3,12
+1173,ElxC 211,Computer Programing,2,0,6
+1178,IM 311,Industrial Psychology and Group Dynamics..,3,3,0
+1179,IM 312,Occupational Safety and Health.,3,3,0
+1180,Mx-Elec 311,Industrial Project Research 1,3,3,0
+1181,Mx-Elec 312,Introduction to Robotic Components,3,3,0
+1182,Mx-Tech 315,Industrial Automation with Supervisory Control and Data Acquisition,3,0,9
+1183,Mx 3111,Introduction to Artificial Intelligence,3,3,0
+1184,Mx 3112,Industrial project Design.,3,0,9
+1185,Mx 3113,Operational and Product Management,3,3,0
+1188,AP 1,Multimedia,3,2,3
+1189,PC 4112,Information Assuranceand Security 2 (Lec),2,2,0
+1190,PC 4112 L,Information Assurance and Security (LAB),3,0,9
+1191,PC 4113,System Administration and Maintenace,3,2,3
+1192,PC 4114,Capstone Project and Research 2 (Technoprenuership 2),3,3,0
+1194,AP 6,Cros-platform Script Development Technology,3,2,3
+1195,FoLa 1,Chinese 1/Korean 1/ Nihongo 1/Spanish 1,3,3,0
+1196,Draw 213,Computer-Aided Drafting 1 (CAD 1),1,0,3

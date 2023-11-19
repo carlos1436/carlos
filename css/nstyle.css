@@ -1,0 +1,190 @@
+.nav-sidebar {
+    position: fixed;
+    overflow-y: scroll;
+    width: 70px;
+    height: 100vh;
+    z-index: 10;
+}
+
+.nav-sidebar::-webkit-scrollbar {
+    display: none;
+}
+
+#plot-content,
+#add-plot-content,
+#print-content {
+    margin-left: 65px;
+}
+
+td {
+    text-align: center;
+    padding: 10px 20px;
+    position: relative;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+.item {
+    background: #576CBC;
+    color: white;
+}
+
+[class*="row-span"] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.sched:hover {
+    cursor: pointer;
+    color: #EBB02D;
+}
+
+.row-span-10 {
+    height: calc(1000% + 9*1px);
+}
+
+.row-span-9 {
+    height: calc(900% + 8*1px);
+}
+
+.row-span-8 {
+    height: calc(800% + 7*1px);
+}
+
+.row-span-7 {
+    height: calc(700% + 6*1px);
+}
+
+.row-span-6 {
+    height: calc(600% + 5*1px);
+}
+
+.row-span-5 {
+    height: calc(500% + 4*1px);
+}
+
+.row-span-4 {
+    height: calc(400% + 3*1px);
+}
+
+.row-span-3 {
+    height: calc(300% + 2*1px);
+}
+
+.row-span-2 {
+    height: calc(200% + 1*1px);
+}
+
+.row-span-1 {
+    height: calc(100% + 0*1px);
+}
+
+.menu-bar {
+    visibility: hidden;
+}
+
+@media (max-width: 991px) {
+    .menu-bar {
+        visibility: visible;
+    }
+
+    .nav-sidebar {
+        width: 0;
+    }
+
+    #plot-content,
+    #add-plot-content,
+    #print-content {
+        margin-left: 0;
+    }
+}
+
+.messenger-container {
+    display: flex;
+    height: 100vh;
+}
+
+.message-list {
+    width: 200px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    overflow-y: auto;
+}
+
+.chat-container {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 10px;
+}
+
+.chat-header {
+    background-color: #4267B2;
+    color: white;
+    padding: 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.chat-messages {
+    flex: 1;
+    overflow-y: auto;
+    padding: 5px;
+    border: 1px solid #cccccc00;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.chat-input {
+    display: flex;
+}
+
+.chat-input input {
+    flex: 1;
+    padding: 5px;
+}
+
+.chat-input button {
+    padding: 5px 10px;
+}
+
+.sidebar::-webkit-scrollbar {
+    display: none;
+    /* For Chrome, Safari, and Opera */
+}
+
+.nav-sidebar {
+
+    top: 0;
+    width: 70px;
+    height: 100vh;
+    z-index: 10;
+    background-color: none;
+    overflow-y: auto;
+    transition: left 0.3s ease;
+}
+
+.nav-sidebar-active {
+    left: 0;
+}
+
+.main-content {
+    margin-left: 110px;
+    /* Adjust the margin to accommodate the width of the sidebar */
+    flex: 1;
+}.my-2{
+    
+    overflow-y:auto;
+}.card{
+
+    background-color: rgba(224, 183, 183, 0.212);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
+}

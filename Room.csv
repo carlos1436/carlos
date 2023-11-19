@@ -1,0 +1,222 @@
+Rm_RoomNo,Rm_Room,Rm_Building,Rm_Capacity,Rm_RoomType
+1,Comp Lab 206,COT Building,40,Air Condition
+2,Rm. 29,Technology Building,50,Air Conditioned
+3,Old Dorm 1,Old Dorm,50,Normal
+4,Old Dorm 2,Old Dorm,50,Normal
+5,Old Dorm 3,Old Dorm,50,Normal
+6,Centrum 1,CTU Facility Centrum,50,Air Conditioned
+7,Centrum 2,CTU Facility Centrum,50,Air Condition
+9,Rm. 46,Technology Building,50,Normal
+10,Old Canteen,Admin Building,50,Normal
+11,Floating 1,Floating,50,Normal
+12,Floating 2,Floating,50,Normal
+13,Floating 3,Floating,50,Normal
+14,Comp Lab 205,COT Building,45,Air con
+15,Rm. 23B,Technology Building,50,Normal
+16,Rm. 23A,Technology Building,50,Normal
+17,Rm. 22,Technology Building,50,Normal
+18,Rm. 25,Technology Building,50,Normal
+19,Rm. 34B,Technology Building,50,Normal
+20,Rm. 34A,Technology Building,50,Normal
+21,Rm. 35,Technology Building,50,Normal
+22,Rm. 36,Technology Building,50,Normal
+23,Rm. 37,Technology Building,50,Normal
+24,Rm. 38,Technology Building,50,Normal
+25,Rm. 39,Technology Building,50,Normal
+26,Rm. 40,Technology Building,50,Normal
+27,Rm. 41,Technology Building,50,Normal
+28,Rm. 28A,Technology Building,50,Normal
+29,Rm. 28B,Technology Building,50,Normal
+30,Rm. 27,Technology Building,50,Normal
+31,Rm. 26,Technology Building,50,Normal
+32,Rm. 24,Technology Building,50,Normal
+33,Rm. 21,Science Building,50,Normal
+34,Rm. 20,Science Building,50,Normal
+35,Rm. 19,Science Building,50,Normal
+36,Rm. 18,Science Building,50,Normal
+37,Rm. 17,Science Building,50,Normal
+38,Rm. 14,Academic Building 2,50,Normal
+39,Rm. 13,Academic Building 2,50,Normal
+40,Rm. 12,Academic Building 2,50,Normal
+41,Rm. 08,Academic Building 1,50,Normal
+42,Rm. 07,Academic Building 1,50,Normal
+43,Rm. 06,Academic Building 1,50,Normal
+44,Rm. 05,Academic Building 1,50,Normal
+45,Rm. 04,Academic Building 1,50,Normal
+46,Rm. 03,Academic Building 1,50,Normal
+47,Rm. 02,Academic Building 1,50,Normal
+48,Speech Lab,Admin Building,50,Air Conditioned
+49,Rm. 30,Technology Bulding,50,Air Conditioned
+50,Comp Lab 207,Technology Bulding,50,Air Conditioned
+51,Comp Lab 204,Technology Bulding,50,Air Conditioned
+52,Comp Lab 203,Technology Bulding,50,Air Conditioned
+53,Comp Lab 202,Technology Bulding,50,Air Conditioned
+54,Comp Lab 201,Technology Bulding,50,Air Conditioned
+55,Admin Office,Admin Building,50,Air Conditioned
+56,Grandstand 1,Grandstand Building,50,Normal
+57,Grandstand 2,Grandstand Building,50,Normal
+58,Grandstand 3,Grandstand Building,50,Normal
+59,Grandstand 5,Grandstand Building,50,Normal
+60,Grandstand 6,Grandstand Building,50,Normal
+61,Grandstand 7,Grandstand Building,50,Normal
+62,Grandstand 4,Grandstannd Building,50,Normal
+63,TESDA,TESDA,50,Air Conditioned
+64,Fab Lab,Fab Lab Building,50,Normal
+65,Ed Tech lab 1,Academic Building 2,50,Air Conditioned
+66,TBA,To Be Arrange,50,Open
+67,TBA 2,To Be Arrange,50,Open
+68,Ed Tech lab 2,Academic Building 2,30,Air Conditioned
+69,PE Room 1,PE Building,50,Normal
+70,PE Room 2,PE Building,50,Normal
+71,COE Office,Academic Building 2,50,Air Conditioned
+72,Old Dorm 4,Old Dorm,50,Normal
+73,Viewing Room,AVR Building,100,Air Conditioned
+74,Viewing Room 2,AVR Building,100,Air Conditioned
+75,TBA-COED,,0,
+76,TBA-COED1,,0,
+77,TBA-COED2,,0,
+78,Rm. 24B,Technology Building,50,Normal
+79,COEN Comp Lab,COEN Building,50,Normal
+80,TBA COEN,Engineering Building,50,Normal
+81,TBA COEN 2,Engineering Building,50,Normal
+82,ED202,,0,
+83,ED 201,,0,
+84,COEN Rm. 101,COEN Building,50,Normal
+85,COEN Rm. 102,COEN Building,50,Normal
+86,COEN Rm. 103,COEN Building,50,Normal
+87,COEN Rm. 201,COEN Building,50,Normal
+88,COEN Rm. 202,COEN Bulding,50,Normal
+89,COEN Rm. 203,COEN Building,50,Normal
+90,COEN Rm. 301,COEN Building,50,Normal
+91,COEN Rm. 302,COEN Buidling,50,Normal
+92,COEN Rm. 303,COEN Building,50,Normal
+93,COED Rm. 101,COED Building,50,Normal
+94,COED Rm. 102,COED Building,50,Normal
+95,COED Rm. 103,COED Building,50,Normal
+96,COED Rm. 201,COED Building,50,Normal
+97,COED Rm. 202,COED Building,50,Normal
+98,COED Rm. 203,COED Building,50,Normal
+99,COED Rm. 301,COED Building,50,Normal
+100,COED Rm. 302,COED Building,50,Normal
+101,COED Rm. 303,COED Building,50,Normal
+102,Rm. 11,Academic Building 2,50,Normal
+103,TBA COT 11,,0,
+104,ED 202,COED BUILDING,0,
+105,ED 301,COED BUILDING,0,
+106,ED 302,COED BUILDING,0,
+107,ED 101,COED BUILDING,0,
+108,ED 102,COED BUILDING,0,
+109,CULTURAL CENTER,,0,
+110,Activity Center 2,Activity Center,50,Normal
+111,Centrum 3,CTU Facility Centrum,50,Air Conditioned
+112,Kadasig Gym,Covered Court,50,Open
+113,TBA 3,Computer Building,50,Normal
+114,TBA 4,COT Building,50,Normal
+115,TBA COT 1,,0,
+116,TBA COT 2,,0,
+117,TBA COT 3,,0,
+118,TBA COT 4,,0,
+119,TBA COT 5,,0,
+120,TBA COT 6,,0,
+121,TBA COT 7,,0,
+122,TBA COT 8,,0,
+123,TBA COT 9,,0,
+124,TBA COT 10,,0,
+125,TBA COTBM 1,,0,
+126,TBA COTBM 2,,0,
+127,TBA COTBM 3,,0,
+128,TBA COTBM 4,,0,
+129,TBA COTBM 5,,0,
+130,TBA COTBM 6,,0,
+131,TBA COTBM 7,,0,
+132,TBA COTBM 8,,0,
+133,TBA COTBM 9,,0,
+134,TBA COTBM 10,,0,
+135,TBA COED 1,,0,
+136,TBA COED 2,,0,
+137,TBA COED 3,,0,
+138,TBA COED 4,,0,
+139,TBA COED 5,,0,
+140,TBA COE 1,,0,
+141,TBA COE 2,,0,
+142,TBA COE 3,,0,
+143,TBA COE 4,,0,
+144,TBA COE 5,,0,
+145,TBA COT 12,,0,
+146,TBA COT 13,,0,
+147,TBA COT 14,,0,
+148,TBA COT 15,,0,
+149,TBA COT 16,,0,
+150,TBA COT 17,,0,
+151,TBA COT 18,,0,
+152,TBA COT 19,,0,
+153,TBA COT 20,,0,
+154,TBA COT 21,,0,
+155,TBA COT 22,,0,
+156,TBA COT 23,,0,
+157,TBA COT 24,,0,
+158,TBA COT 25,,0,
+159,TBA COTBM 11,,0,
+160,TBA COTBM 12,,0,
+161,TBA COTBM 13,,0,
+162,TBA COTBM 14,,0,
+163,TBA COTBM 15,,0,
+164,TBA COTBM 16,,0,
+165,TBA COTBM 17,,0,
+166,TBA COTBM 18,,0,
+167,TBA COTBM 19,,0,
+168,TBA COTBM 20,,0,
+169,Old Dorm 1.,,0,
+170,Old Dorm 2.,,0,
+171,Old Dorm 3.,,0,
+172,Floating 1.,,0,
+173,Floating 2.,,0,
+174,Floating 3.,,0,
+175,Centrum 1.,,0,
+176,Centrum 2.,,0,
+177,Centrum 3.,,0,
+178,TBA CME 1,,0,
+179,TBA CME 2,,0,
+180,TBA CME 3,,0,
+181,TBA CME 4,,0,
+182,TBA CME 5,,0,
+183,TBA CME 6,,0,
+184,TBA CME 7,,0,
+185,TBA CME 8,,0,
+186,TBA CME 9,,0,
+187,TBA CME 10,,0,
+188,Old Canteen 1,,0,
+189,VR-COT 1,,0,
+190,VR-COT 2,,0,
+191,VR-COT 3,,0,
+192,VR-COT 4,,0,
+193,VR-COT 5,,0,
+194,VR-COT 6,,0,
+195,VR-COT 7,,0,
+196,VR-COT 8,,0,
+197,VR-COT 9,,0,
+198,VR-COT 10,,0,
+199,VR-COT 11,,0,
+200,VR-COT 12,,0,
+201,VR-COT 13,,0,
+202,VR-COT 14,,0,
+203,VR-COT 15,,0,
+204,VR-FabLab,,0,
+205,VR-COE 1,,0,
+206,VR-COE 2,,0,
+207,VR-COE 3,,0,
+208,VR-COE 4,,0,
+209,VR-COE 5,,0,
+210,COE Rm. 1,New COEng Building,0,
+211,COE Rm. 2,New COEng Building,0,
+212,COE Rm. 3,New COEng Building,0,
+213,COE Rm. 4,New COEng Building,0,
+214,COE Rm. 5,New COEng Building,0,
+215,COE Rm. 6,New COEng Building,0,
+216,COE Rm. 7,New COEng Building,0,
+217,Physics LAB,New COEng Building,0,
+218,CE LAB,New COEng Building,0,
+219,Comp LAB 1 & 2,New COEng Building,0,
+220,EE LAB,New COEng Building,0,
+221,IE LAB,New COEng Building,0,
+222,ME LAB,New COEng Building,0,

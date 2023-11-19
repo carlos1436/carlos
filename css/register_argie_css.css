@@ -1,0 +1,54 @@
+body {
+
+  
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+   
+}.container-fluid{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    border-radius: 15px;
+
+    
+}.card-body{
+  
+   background-color: #fff;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}.card-header{
+
+    margin: 0%;
+}
+.alert {
+   
+    position: relative;
+    margin-left: 50%;
+
+
+
+
+
+}.buttons{
+
+display: flex;
+justify-content: center;
+
+}
+
+@media screen and (max-width: 900px){
+
+
+    .row{
+  align-items: center;
+  
+
+}
+.container-fluid{
+    margin: 0%;
+}.buttons{
+   
+    text-align: center;
+}
+}

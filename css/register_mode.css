@@ -1,0 +1,133 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+
+}
+.hero{
+
+    height: 100%;
+    width: 100%;
+    background-color:#ebf4f5;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    
+    
+ 
+
+}
+.form-box{
+
+    width: 470px;
+    height: 600px;
+    position: relative;
+    border-radius: 10px;
+
+    margin: 6% auto;
+    background: whitesmoke;
+    padding: 5px;
+    overflow: hidden;
+    box-shadow: 0 0 20px 1px black;
+
+    
+}
+.button-box{
+    width: 220px;
+    margin-right: 10px;
+    margin:  40px auto;
+    position: relative;
+    box-shadow: 0 0 5px 1px black;
+    border-radius: 30px;
+    
+}
+.toggle-btn{
+padding: 10px 30px;
+cursor: pointer;
+background:  transparent;
+border:  0;
+outline: none;
+position: relative;
+
+}
+#btn{
+    
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 110px;
+    height: 100%;
+    background: linear-gradient(to right, #f9c823, #c5302e);
+    border-radius: 30px;
+    transition: .5s;
+
+}
+.input-group{
+
+top:  70px;
+margin: 10px;
+position: absolute;
+width: 280px;
+transition: .5s;
+padding-left: 47px;
+padding-top: 30px;
+margin: 10px;
+}
+.input-field{
+
+    width: 45%;
+    padding: 8px 0;
+    margin: 15px 0 0 ;
+  
+    border-left: 0;
+    border-top: 0;
+ 
+    border-bottom: 2px solid gray;
+    outline: none;
+    background-color: transparent;
+    margin-right: 10px;
+    
+
+}
+.submit-btn{
+    width: 75%;
+    padding: 12px;
+    cursor: pointer;
+    display: block;
+    margin: 29px;
+    background: linear-gradient(to right, #c5302e, #c5302e);
+    border: white;
+    outline: none;
+    border-radius: 30px;
+   
+}
+#student{
+
+left: 50px;
+
+}
+#teacher{
+
+left: 450px;
+
+}
+.mak{
+
+   padding-left: 80px;
+   padding-bottom: 30px;
+ color: black;
+}
+.btn-secondary {
+    
+
+    width: 127px;
+    height: 35px;
+    border: 1px  solid black;
+}
+.btn-secondary2 {
+    margin-top: 20px;
+    width: 127px;
+    height: 35px;
+    border: 1px  solid black;
+}

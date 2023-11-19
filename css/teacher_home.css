@@ -1,0 +1,65 @@
+body{
+
+    margin: 0%;
+    position: relative;
+
+}
+.container{
+
+    width: 100%;
+  text-align: center;
+  padding: 20px;
+
+}
+.row{
+    display: flex;
+    height: 88%;
+
+
+}
+.col{
+    flex-basis:content;    
+    margin-top: 25%;
+ 
+}
+h1{
+
+    
+    font-size: 70px;
+    text-align: center;
+ 
+ 
+}
+p{
+   padding-top: 30px;
+   text-align: justify;
+   text-align: center;
+   word-spacing: 1px;
+   text-indent: 20px;
+   font-family: cursive;
+}.image{
+
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:280px;
+    margin-bottom: 10px;
+}
+@media screen and (max-width: 700px) {
+    .image {
+     
+        display: none;
+        
+       
+    }
+    p{
+           padding-top: 50px;
+        text-align: justify;
+        font-family: cursive;
+        text-transform:initial;
+    }
+    h1{
+        font-size: 45px;
+    }
+}

@@ -1,0 +1,13 @@
+SELECT [TS_SN]
+      ,[TS_AY]
+      ,[TS_Sem]
+      ,[TS_Program]
+      ,[TS_Department]
+      ,[TS_Section]
+      ,[TS_Teacher]
+      ,[TS_Subject]
+      ,[TS_Major]
+      ,[TS_Adviser]
+      ,[TS_MISCode]
+  FROM [DB_Scheduling].[dbo].[CTU_Sched]
+  WHERE TS_Department = 'COT' AND TS_AY = '2022 - 2023' OR  TS_AY = '2023 - 2024'
